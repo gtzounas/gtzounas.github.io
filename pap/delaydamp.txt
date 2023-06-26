@@ -1,0 +1,12 @@
+BIBTEX:
+
+@ARTICLE{tzounas:delaydamp:,
+  author={G. {Tzounas} and R. Sipahi and F. {Milano}},
+  journal={IEEE Transactions on Circuits and Systems I: Regular Papers},
+  title={Damping power system electromechanical
+  oscillations using time delays},
+  year={2021},
+  volume={68},
+  number={6},
+  pages={2725-2735},
+  doi={10.1109/TCSI.2021.3062970},}

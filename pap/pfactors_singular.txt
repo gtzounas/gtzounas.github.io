@@ -1,0 +1,9 @@
+BIBTEX:
+
+@ARTICLE{dassios:pfactors:2020,
+author={I. Dassios and G. Tzounas and F. Milano},
+title={Participation Factors for Singular Systems of Differential Equations},
+journal={Circuits, Systems, and Signal Processing},
+year={2020},
+volume={39},
+pages={83--110},}

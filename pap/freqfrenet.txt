@@ -1,0 +1,10 @@
+BIBTEX:
+
+@ARTICLE{zhong2022improving,
+  title={Improving the Power System Dynamic Response through a Combined Voltage-Frequency Control of Distributed Energy Resources},
+  author={Zhong, Weilin and Tzounas, Georgios and Milano, Federico},
+  journal={IEEE Transactions on Power Systems},
+  year={2022},
+  publisher={IEEE}}
+
+

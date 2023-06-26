@@ -1,0 +1,9 @@
+BIBTEX:
+
+@inproceedings{kerci2021short,
+  title={A Short-Term Dynamic Electricity Market Model with Memory Effect},
+  author={K{\"e}r{\c{c}}i, Taulant and Tzounas, Georgios and Dassios, Ioannis and Murad, Mohammed Ahsan Adib and Milano, Federico},
+  booktitle={2021 IEEE Power \& Energy Society General Meeting (PESGM)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}}

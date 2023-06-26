@@ -1,0 +1,7 @@
+BIBTEX:
+
+@INPROCEEDINGS{tzounas:freqpss_ptc:2019,
+  author={G. {Tzounas} and M. {Liu} and M. A. A. {Murad} and F. {Milano}},
+  booktitle={Proceedings of the IEEE PowerTech Conference},
+  title={Impact of Realistic Bus Frequency Measurements on Wide-Area Power System Stabilizers},
+  year={2019},}

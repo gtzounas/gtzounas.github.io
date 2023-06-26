@@ -1,0 +1,10 @@
+BIBTEX:
+
+@INPROCEEDINGS{tzounas:freqpss_gm:2019,
+  author={G. {Tzounas} and F. {Milano}},
+  booktitle=GM,
+  title={Impact of the Estimation of Synchronous Machine Rotor Speeds on Wide-Area Damping Controllers},
+  year={2019},
+  volume={},
+  number={},
+  pages={1-5},}

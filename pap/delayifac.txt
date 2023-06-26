@@ -1,0 +1,11 @@
+BIBTEX:
+
+@ARTICLE{tzounas:delayifac:2018,
+author = {Georgios Tzounas and Muyang Liu and Mohammed Ahsan Adib Murad and Federico Milano},
+title = {Stability Analysis of Wide Area Damping Controllers with Multiple Time Delays},
+journal = {IFAC-PapersOnLine},
+volume = {51},
+number = "28",
+pages = {504-509},
+year = {2018},
+note = {10th IFAC Symposium on Control of Power and Energy Systems},}

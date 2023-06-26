@@ -1,0 +1,13 @@
+BIBTEX:
+
+@article{murad:fopilimit:2020,
+title = {Modeling and Simulation of Fractional Order {PI} Control Limiters for Power Systems},
+author = {Mohammed Ahsan {Adib Murad} and Georgios Tzounas and Federico Milano},
+journal = {IFAC-PapersOnLine},
+volume = {53},
+number = {2},
+pages = {13107-13112},
+year = {2020},
+note = {21th IFAC World Congress},
+issn = {2405-8963},
+doi = {10.1016/j.ifacol.2020.12.2273},}

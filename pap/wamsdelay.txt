@@ -1,0 +1,10 @@
+BIBTEX:
+
+@ARTICLE{muyang:wams,
+author={M. {Liu} and I. {Dassios} and G. {Tzounas} and F. {Milano}},
+journal={IEEE Transactions on Power Systems},
+title={{Stability analysis of power systems with inclusion of realistic-modeling WAMS delays}},
+year={2019},
+volume={34},
+number={1},
+pages={627-636},}

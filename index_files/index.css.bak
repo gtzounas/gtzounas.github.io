@@ -1,0 +1,201 @@
+body{ font-family: system-ui;
+      color: dimgray;          }
+
+#content-left { width: 70%;
+                margin: auto;  }
+
+h1{ font-size:200%; }
+
+h3{
+  font-size:300%;
+  color:dimgray;
+  text-transform: inherit;
+  font-weight: 100;
+}
+
+h1,h2{
+  color:dimgray;
+  text-transform: inherit;
+  font-weight: 100;
+}
+
+footer{
+  margin-top:50px;
+  background-color:#0a3a6b;
+  color:white;
+}
+
+footer p {
+  text-align:center;
+  margin-right:20px;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+ul .fa{
+  color: black;
+}
+
+@media screen and (max-width:760px){ #content-left { width: 90%; }
+                                     h1 { font-size: 200%; } }
+
+.content-right img{
+  width: 350px;
+}
+
+.content-right1 img{
+  width: 500px;
+}
+
+/* Logo */
+.logo { width:100px;
+        height:80px;
+        margin-right:0px;
+        margin-top:0px;
+        border-bottom: 0px solid #ccc;
+        justify-content: left;         }
+
+
+/* Placement of Logo */
+.logo img{
+  width: 100px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+/* Placement of Logo */
+.sociallink img{
+  width: 60px;
+  margin-right: 120px;
+  margin-top: 0px;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  background: transparent;
+  margin-right: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: system-ui;
+  color: white;
+}
+
+.tab button:hover .fa{
+  color: white;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #bf3232;
+/*    background-color: #60ccc2; */
+}
+
+/* Create an active/current tablink class
+.tab button.active .fa{
+  color: #bf3232;
+}
+*/
+
+/* Style the tab */
+.tab {
+  width: 80%;
+  height: 70px;
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  justify-content: center;
+  background: #0a3a6b;
+}
+
+.content-left{
+  flex-basis: 50%;
+}
+
+.content-left p{
+  font-size: 13px;
+  padding: 30px 0;
+}
+
+.content-left a{
+  width: 150px;
+  display: block;
+  padding: 8px 5px;
+  border-radius: 20px;
+  text-decoration: none;
+  /* background-color: #ff7846; */
+  background-color: #ffe18d;
+  color: #fff;
+  text-align: center;
+}
+
+.content-right{
+  flex-basis: 50%;
+  text-align: left;
+}
+
+.tab .fa{
+  margin-right: 20px;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: flex;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  justify-content: center;
+  align-items: center;
+  margin: 5% auto;
+}
+
+#Home{
+  transform: translateX(0px);
+}
+
+.social-icons{
+  right: 172px;
+  bottom: 300px;
+  position: absolute;
+}
+
+.social-icons ul li{
+  list-style: none;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.social-icons ul li a{
+  color: #999;
+  border-radius: 50%;
+  border: 2px solid #999;
+  padding: 5px;
+  display: block;
+  background-color:aquamarine;
+}
+
+a:link{
+    color: #bf3232;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+a:visited{
+  color: #bf3232;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.thumbnail:hover{
+    position:relative;
+    top:0px;
+    left:0px;
+    width:10px;
+    height:auto;
+    display:block;
+    z-index:50;
+}

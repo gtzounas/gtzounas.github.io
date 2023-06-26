@@ -1,0 +1,10 @@
+BIBTEX:
+
+@ARTICLE{dassios:robust:2021,
+author = {Ioannis Dassios and Georgios Tzounas and Federico Milano},
+title = {Robust stability criterion for perturbed singular systems of linearized differential equations},
+journal = {Journal of Computational and Applied Mathematics},
+volume = {381},
+pages = {113032},
+year = {2021},
+doi ={10.1016/j.cam.2020.113032}

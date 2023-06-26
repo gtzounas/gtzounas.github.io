@@ -1,0 +1,10 @@
+BIBTEX:
+
+@ARTICLE{dassios:moebius:2019,
+Author = {I. Dassios and G. Tzounas and F. Milano},
+Journal = {Applied Mathematics and Computation},
+Number = {},
+Pages = {338--353},
+Title = {{The M{\"o}bius transform effect in singular systems of differential equations}},
+Volume = {361},
+Year = {2019},}

@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Georgios Tzounas - Teaching</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+		<div id="wrapper" class="fade-in">
+
+			<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="logo">Georgios Tzounas</a>
+			</header>
+
+			<!-- Nav -->
+			<nav id="nav">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="publications.html">Publications</a></li>
+					<li><a href="ongoing.html">Ongoing</a></li>
+					<li><a href="projects.html">Projects</a></li>
+					<li class="active"><a href="teaching.html">Teaching</a></li>
+					<li><a href="service.html">Service</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+				<ul class="icons">
+					<li><a href="https://orcid.org/0000-0002-1464-3600" class="icon brands fa-orcid"><span class="label">ORCID</span></a></li>
+					<li><a href="https://scholar.google.com/citations?user=VjLu0esAAAAJ" class="icon solid fa-graduation-cap"><span class="label">GoogleScholar</span></a></li>
+					<li><a href="https://www.researchgate.net/profile/Georgios-Tzounas" class="icon brands fa-researchgate"><span class="label">ResearchGate</span></a></li>
+					<li><a href="https://www.linkedin.com/in/georgiostzounas/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+				</ul>
+			</nav>
+
+			<!-- Main -->
+			<div id="main">
+
+				<!-- Post -->
+				<article class="post">
+					<header class="major">
+						<span class="date">Teaching</span>
+					</header>
+
+					<p style="margin-top:1.5cm"></p>
+
+						<section id="Teaching" onmouseover="teachingHover()" onmouseout="arisingNormal()">
+
+						<ul>
+						
+							<li> 
+							UCD Spring Semester 2022/23: <a href="https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=EEEN40090" target="_blank">EEEN40090 - Power System Design</a>
+							</li>
+						</ul>	
+
+							
+					
+				</article>
+			</div>
+
+			<!-- Copyright -->
+			<div id="copyright">
+				<ul>
+					<li>&copy; gtzounas</li>
+					<li><a href="https://html5up.net">HTML5 UP</a></li>
+						<li><a href="https://orcid.org/0000-0002-1464-3600" class="icon brands fa-orcid"><span class="label">ORCID</span></a>
+							  <a href="https://scholar.google.com/citations?user=VjLu0esAAAAJ" class="icon solid fa-graduation-cap"><span class="label">GoogleScholar</span></a>
+								<a href="https://www.researchgate.net/profile/Georgios-Tzounas" class="icon brands fa-researchgate"><span class="label">ResearchGate</span></a>
+								<a href="https://www.linkedin.com/in/georgiostzounas/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a>
+						</li>
+				</ul>
+			</div>
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>

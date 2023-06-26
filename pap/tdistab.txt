@@ -1,0 +1,10 @@
+BIBTEX:
+
+@article{tzounas2022small,
+  title={Small-Signal Stability Analysis of Numerical Integration Methods},
+  author={Tzounas, Georgios and Dassios, Ioannis and Milano, Federico},
+  journal={IEEE Transactions on Power Systems},
+  year={2022},
+  publisher={IEEE}
+}
+

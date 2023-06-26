@@ -1,0 +1,11 @@
+BIBTEX:
+
+@ARTICLE{tzounas:eigmethods,
+author = {Tzounas, Georgios and Dassios, Ioannis and Liu, Muyang and Milano, Federico},
+title = {Comparison of Numerical Methods and Open-Source Libraries for Eigenvalue Analysis of Large-Scale Power Systems},
+journal = {Applied Sciences},
+volume = {10},
+year = {2020},
+number={21},
+article-number={7592},
+doi ={10.3390/app10217592}}

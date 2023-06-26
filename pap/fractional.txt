@@ -1,0 +1,11 @@
+BIBTEX:
+
+@ARTICLE{tzounas:fractional:2020,
+  author={Tzounas, Georgios and Dassios, Ioannis and Murad, Mohammed Ahsan Adib and Milano, Federico},
+  journal={IEEE Transactions on Power Systems},
+  title={Theory and Implementation of Fractional Order Controllers for Power System Applications},
+  year={2020},
+  volume={35},
+  number={6},
+  pages={4622-4631},
+  doi={10.1109/TPWRS.2020.2999415}}

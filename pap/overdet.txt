@@ -1,0 +1,11 @@
+BIBTEX:
+
+@ARTICLE@article{dassios2022singular,
+  title={Singular over-determined systems of linear differential equations},
+  author={Dassios, Ioannis and Tzounas, Georgios and Liu, Muyang and Milano, Federico},
+  journal={Mathematics and Computers in Simulation},
+  volume={197},
+  pages={396--412},
+  year={2022},
+  publisher={Elsevier}}
+

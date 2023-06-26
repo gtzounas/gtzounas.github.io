@@ -1,0 +1,7 @@
+BIBTEX:
+
+@INPROCEEDINGS{ahsan:freqsvc:2019,
+  author={M. A. A. {Murad} and G. {Tzounas} and M. {Liu} and F. {Milano}},
+  booktitle={Proceedings of the IEEE PES General Meeting},
+  title={{Frequency control through voltage regulation of power system using SVC devices}},
+  year={2019},}

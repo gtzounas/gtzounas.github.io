@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Georgios Tzounas</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Georgios<br />
+						Tzounas</h1>
+						<p>
+						Welcome to my website!
+					  <!--%<br>
+						Willkommen auf meiner Webseite!
+						<br>
+						Καλωσήρθατε στην ιστοσελίδα μου!
+						-->
+
+						</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Georgios Tzounas</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Home</a></li>
+							<li><a href="publications.html">Publications</a></li>
+							<li><a href="ongoing.html">Ongoing</a></li>
+							<li><a href="projects.html">Projects</a></li>
+							<li><a href="projects.html">Teaching</a></li>
+							<li><a href="service.html">Service</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://orcid.org/0000-0002-1464-3600" class="icon brands fa-orcid"><span class="label">ORCID</span></a></li>
+							<li><a href="https://scholar.google.com/citations?user=VjLu0esAAAAJ" class="icon solid fa-graduation-cap"><span class="label">GoogleScholar</span></a></li>
+							<li><a href="https://www.researchgate.net/profile/Georgios-Tzounas" class="icon brands fa-researchgate"><span class="label">ResearchGate</span></a></li>
+							<li><a href="https://www.linkedin.com/in/georgiostzounas/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post">
+								<header class="major">
+									<span class="date">Home Page</span>
+								</header>
+								<p>
+									<span class="image left"><img src="images/G_Edited_Cropped" alt="" /></span>
+									I am a Postdoctoral Researcher at <a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a>,
+									Switzerland, working with the <a href="https://psl.ee.ethz.ch/" target="_blank">Power Systems Laboratory</a>
+									and the
+									<a href="https://nccr-automation.ch/nccr-automation" target="_blank">NCCR Automation</a>
+									project.
+									My research is primarily focused on the mathematical modelling, stability
+									analysis, and automatic control of electric power systems.
+									Interested in working together on a relevant topic?
+									<a href="https://n.ethz.ch/~gtzounas/contact.html">Get in touch</a>!
+
+									<br><br>
+									I was born in Kozani, Greece, in 1993. I received the Diploma (ME) in
+									Electrical and Computer Engineering from the
+									<a href="https://www.ntua.gr/en/" target="_blank">National Technical
+									University of Athens (NTUA)</a>,
+									Greece, in 2017, and the PhD degree in
+									Electrical and Electronic Engineering from
+									<a href="https://www.ucd.ie/" target="_blank">University College Dublin (UCD)</a>,
+									 Ireland, in 2021. From Jan. to Apr. 2020, I was a visiting
+									researcher at Northeastern University, Boston, MA.  From 2021 to
+									Apr. 2022, I was a Senior (Postdoctoral) Power Systems Researcher at
+									UCD, working with the EU H2020 consortium “edgeFLEX”.
+
+									<br><br>
+									I have co-authored more than 40 scientific
+									<a href="https://n.ethz.ch/~gtzounas/publications.html">publications</a>, including
+									more than 20 articles in academic journals, papers in international conference
+									proceedings, technical reports, book chapters, as well as the book "Eigenvalue Problems
+									in Power Systems" with CRC Press. I am an IEEE member, a member of the
+									Technical Chamber of Greece, and regularly
+									<a href="https://n.ethz.ch/~gtzounas/service.html">serve</a>
+									as a reviewer for academic journals of international standing.
+									
+									<br><br>
+									<u>NEWS</u>: From spring 2023, I am starting a new role at University College 
+									Dublin as Assistant Professor, and I am currently looking for motivated and talented candidates 
+									to pursue their PhD with me in Ireland. If you are interested or you know students that may
+									be interested, get in touch!
+									
+									
+								</p>
+						<!-- Footer
+							<footer>
+								<div class="pagination">
+									<a href="#" class="previous">Prev</a>
+									<a href="#" class="page active">1</a>
+									<a href="#" class="page">2</a>
+									<a href="#" class="page">3</a>
+									<span class="extra">&hellip;</span>
+									<a href="#" class="page">8</a>
+									<a href="#" class="page">9</a>
+									<a href="#" class="page">10</a>
+									<a href="#" class="next">Next</a>
+								</div>
+							</footer> -->
+
+						</article>
+					</div>
+
+				<!-- Copyright -->
+				<div id="copyright">
+					<ul>
+						<li>&copy; gtzounas</li>
+						<li><a href="https://html5up.net">HTML5 UP</a></li>
+							<li><a href="https://orcid.org/0000-0002-1464-3600" class="icon brands fa-orcid"><span class="label">ORCID</span></a>
+								<a href="https://scholar.google.com/citations?user=VjLu0esAAAAJ" class="icon solid fa-graduation-cap"><span class="label">GoogleScholar</span></a>
+								<a href="https://www.researchgate.net/profile/Georgios-Tzounas" class="icon brands fa-researchgate"><span class="label">ResearchGate</span></a>
+								<a href="https://www.linkedin.com/in/georgiostzounas/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a>
+							</li>
+					</ul>
+				</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

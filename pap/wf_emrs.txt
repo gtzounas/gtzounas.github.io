@@ -1,0 +1,11 @@
+BIBTEX:
+
+@INPROCEEDINGS{souxes:wfemrs:2017,
+  author={Souxes, Theodoros and Tzounas, Giorgos and Vournas, Costas},
+  booktitle={Proceedings of the IEEE PowerTech Conference},
+  title={Effect of wind variability in the emergency reactive support provided by wind farms},
+  year={2017},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/PTC.2017.7980845}}

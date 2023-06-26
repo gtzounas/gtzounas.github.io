@@ -1,0 +1,10 @@
+BIBTEX:
+
+@inproceedings{tzounas2021improving,
+  title={Improving the Frequency Response of DERs Through Voltage Feedback},
+  author={Tzounas, Georgios and Milano, Federico},
+  booktitle={2021 IEEE Power \& Energy Society General Meeting (PESGM)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}}
+

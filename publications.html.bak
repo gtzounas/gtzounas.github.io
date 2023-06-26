@@ -1,0 +1,933 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Georgios Tzounas - Publications</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+		<div id="wrapper" class="fade-in">
+
+			<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="logo">Georgios Tzounas</a>
+			</header>
+
+			<!-- Nav -->
+			<nav id="nav">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li class="active"><a href="publications.html">Publications</a></li>
+					<!--
+					<li class="dropdown">
+						<button class="dropbtn">News 
+						  <i class="fa fa-caret-down"></i>
+						</button>
+						<div class="dropdown-content">
+						  <a href="projects.html">Link 1</a>
+						  <a href="#">Link 2</a>
+						  <a href="#">Link 3</a>
+						</div>
+					 </li>  
+					 -->
+					<li><a href="ongoing.html">Ongoing</a></li>
+					<li><a href="projects.html">Projects</a></li>
+					<li><a href="service.html">Service</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+				<ul class="icons">
+					<li><a href="https://orcid.org/0000-0002-1464-3600" class="icon brands fa-orcid"><span class="label">ORCID</span></a></li>
+					<li><a href="https://scholar.google.com/citations?user=VjLu0esAAAAJ" class="icon solid fa-graduation-cap"><span class="label">GoogleScholar</span></a></li>
+					<li><a href="https://www.researchgate.net/profile/Georgios-Tzounas" class="icon brands fa-researchgate"><span class="label">ResearchGate</span></a></li>
+					<li><a href="https://www.linkedin.com/in/georgiostzounas/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+				</ul>
+			</nav>
+
+			<!-- Main -->
+			<div id="main">
+
+				<!-- Post -->
+				<article class="post">
+					<header class="major">
+						<span class="date">List of Publications</span>
+					</header>
+
+					<p style="margin-top:1.5cm"></p>
+
+						<!--
+						<div id="content-left">
+							<a href="https://www.routledge.com/Eigenvalue-Problems-in-Power-Systems/Milano-Dassios-Liu-Tzounas/p/book/9780367343675" target=_blank>
+							<p style="margin-bottom:-8.5cm; margin-top:2.5cm; margin-left:-5.5cm";>
+							 <img style="border-color:white; "src="./index_files/eigenvalue.jpg" height="220px" width="150px" border="1px">
+							</p>
+						 </a>
+						 -->
+						 <!-- <header><h1>List of Publications</h1></header> -->
+
+						 <section id="Books" onmouseover="booksHover()" onmouseout="booksNormal()">
+							<h2>Books</h2>
+
+							<ol reversed align="justify">
+								<li align="justify"> F. Milano, I. Dassios, M. Liu, <b>G. Tzounas</b>,
+								 <i>Eigenvalue Problems in Power Systems</i>, CRC Press, Taylor & Francis Group, 2020.
+								</li>
+								
+								<p align="right">
+									<!-- 
+									<a style="margin-right:1.5cm" href="./pap/eigenvalue_book.txt" target=_blank>
+									 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+									</a>
+									-->
+								 <a href="https://www.routledge.com/Eigenvalue-Problems-in-Power-Systems/Milano-Dassios-Liu-Tzounas/p/book/9780367343675" target=_blank>
+									<i class="fa fa-external-link" aria-hidden="true"></i> ISBN
+								 </a>
+								</p>
+							</ol>
+						 </section>
+						 
+						 <section id="Book Chapters" onmouseover="booksHover()" onmouseout="booksNormal()">
+							<h2>Book Chapters</h2>
+
+							<ol reversed align="justify">
+								<li> 
+									<b>G. Tzounas</b>,  I. Dassios, M. Liu, R. Sipahi, F. Milano,
+									<i>
+									Small-Signal Stability and Time Domain Analysis of Delayed Power Systems</i>, 
+									Chapter 17 in
+									<i>
+									Advances in Power System Modelling, Control and Stability Analysis</i>,
+									IET, 2nd edition, 2022.
+									<p align="right">
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1049/PBPO217E_ch17" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+									</p>
+								</li>	
+								<p></p>	
+								
+								<li> 
+									<b>G. Tzounas</b>, M. A. A. Murad, W. Zhong, F. Milano,
+									<i>
+									Combined Voltage-Frequency Control With Power Electronics-Based Devices</i>, 
+									Chapter 12 in
+									<i>
+									Advances in Power System Modelling, Control and Stability Analysis</i>,
+									IET, 2nd edition, 2022.
+									<p align="right">
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1049/PBPO217E_ch12" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+									</p>
+								</li>
+								<p></p>	
+							</ol>
+						 </section>						 
+
+						 <section id="Journals" onmouseover="journalsHover()" onmouseout="journalsNormal()">
+							<h2>Journal Articles</h2>
+							<ol reversed align="justify">
+							
+							
+								<li> 
+									I. Dassios, <b>G. Tzounas</b>, F. Milano, Stability criterion of a class of 
+									non-causal systems of differential equations, 
+									Circuits, Systems, and Signal Processing, Springer, accepted in Oct. 2022.
+									<p align="right">
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1007/s00034-022-02221-1" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/noncausal.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+										</a>
+									</p>
+								</li>
+								<p></p>	
+							
+																					
+					
+								<li> 
+									<b>G. Tzounas</b>, F. Milano, I. Dassios, Frequency divider 
+								    as a continuum, IEEE Transactions on Power Systems, 
+									vol. 37, no. 6, pp. 4970-4973, Nov. 2022.
+									<p align="right">
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1109/TPWRS.2022.3207058" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/fdfcont.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+										</a>
+									</p>
+								</li>
+								<p></p>
+								
+								<li> <b>G. Tzounas</b>, I. Dassios, F. Milano, Small-signal stability analysis of
+									numerical integration methods,
+									IEEE Transactions on Power Systems, vol. 37, no. 6, pp. 4796-4806, Nov. 2022.
+								</li>
+								<p align="right">
+								 <a style="margin-right:1.5cm" href="https://doi.org/10.1109/TPWRS.2022.3146345" target=_blank>
+									<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+								 </a>
+								<a href="./pap/tdistab.pdf" target=_blank>
+								 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF
+								</a>
+								</p>
+								
+								<li> W. Zhong, <b>G. Tzounas</b>, F. Milano, Improving the power system dynamic response 
+								     through a combined voltage-frequency control of distributed energy resources,
+								     IEEE Transactions on Power Systems, 
+									 vol. 37, no. 6, pp. 4375-4384, Nov. 2022.
+								</li>
+								<p align="right">
+									<!--
+								 <a style="margin-right:1.5cm" href="./pap/derfv.txt" target=_blank>
+									<i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+								 </a>
+							 -->
+								 <a style="margin-right:1.5cm" href="https://doi.org/10.1109/TPWRS.2022.3148243" target=_blank>
+									<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+								 </a>
+								<a href="./pap/derfv.pdf" target=_blank>
+								 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF
+								</a>
+								</p>
+								
+								<li> W. Zhong, <b>G. Tzounas</b>, M. Liu, F. Milano, On-line inertia estimation
+									of virtual power plants, Electric Power Systems Research, Elsevier, vol. 212, 
+									no. 108336, Nov. 2022.
+										<p align="right">
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1016/j.epsr.2022.108336" target=_blank>
+												<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											 </a>																				
+											<a href="./pap/inertiavpp.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+											</a>
+										</p>
+								</li>
+								<p></p>
+								
+								<li> 
+									T. Kërçi, <b>G. Tzounas</b>, F. Milano, A dynamic behavioral model of the 
+									long-term development of solar photovoltaic generation driven by feed-in 
+									tariffs, Energy, Elsevier, vol. 256, no. 124506, Oct. 2022.
+										<p align="right">
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1016/j.energy.2022.124506" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/pvfit.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+										</a>
+										</p>
+								</li>
+								<p></p>
+
+								<li> <b>G. Tzounas</b>, I. Dassios, F. Milano, Small-signal stability analysis of implicit
+									integration methods for power systems with delays, Electric Power Systems Research, 
+									Elsevier, vol. 211, no. 108266, Oct. 2022.
+										<p align="right">
+										 <a style="margin-right:1.5cm" href="https://doi.org/10.1016/j.epsr.2022.108266" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										 </a>
+										 <a href="./pap/ddestabmap.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+										 </a>
+										</p>
+								</li>
+								<p></p>
+								
+								<li> F. Milano, M. Liu, M. A. A. Murad, G. Jonsdottir, <b>G. Tzounas</b>, M. Adeen, I. Dassios, A. Ortega,
+									Power system modelling as stochastic functional hybrid differential-algebraic 
+									equations, vol. 5, no. 5, pp. 309-331, IET Smart Grid, Oct. 2022.
+									<i>
+									This paper was selected as the journal's featured article for Issue 5, 2022.</i>
+										<p align="right">
+										 <a style="margin-right:1.5cm" href="https://doi.org/10.1049/stg2.12069" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										 </a>
+										 <a href="./pap/ampsas.pdf" target=_blank>
+												<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+										 </a>
+										</p>
+								</li>
+								<p></p>
+								
+								<li> 
+									F. Sanniti, <b>G. Tzounas</b>, R. Benato, F. Milano, Curvature-based control 
+									for low-inertia systems, IEEE Transactions on Power Systems, 
+									vol. 37, no. 5, pp. 4149-4152, Sep. 2022.
+										<p align="right">
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1109/TPWRS.2022.3184189" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/curvcontrol.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+										</a>
+										</p>
+								</li>
+								<p></p>
+
+
+								<li> I. Dassios, <b>G. Tzounas</b>, F. Milano, M. Liu, F. Milano, Singular over-determined systems of linear
+									differential equations, Mathematics and Computers in Simulation, Elsevier,
+									vol. 197, pp. 396-412, Jul. 2022.
+									<p align="right">
+										<!--
+										<a style="margin-right:1.5cm" href="./pap/overdet.txt" target=_blank>
+										 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+										</a>
+										 -->
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1016/j.matcom.2022.02.003" target=_blank>
+										 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/overdet.pdf" target=_blank>
+										 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+										</a>
+									</p>
+								</li>
+								<p></p>
+								
+								
+								<li> 
+									F. Milano, <b>G. Tzounas</b>, I. Dassios, M. A. A. Murad, T. Kërçi, 
+									Using differential geometry to revisit the paradoxes of the instantaneous frequency,  
+									IEEE Open Access Journal of Power and Energy, 
+									<i>Invited Papers on Emerging Topics in PES</i>,
+									vol. 9, pp. 501-513, Jun. 2022.
+									<p align="right">
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1109/OAJPE.2022.3186878" target=_blank>
+											<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/paradoxes.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+										</a>
+									</p>
+								</li>
+								<p></p>
+							
+
+								<li> F. Milano, <b>G. Tzounas</b>, I. Dassios, T. Kërçi, Applications of the Frenet frame to electric circuits,
+									IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 4, 
+									pp. 1668-1680, Apr. 2022.
+								</li>
+								<p align="right">
+								<!--
+								 <a style="margin-right:1.5cm" href="./pap/freqfrenet.txt" target=_blank>
+									<i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+								 </a>
+								 -->
+								 <a style="margin-right:1.5cm" href="https://doi.org/10.1109/TCSI.2021.3133948" target=_blank>
+									<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+								 </a>
+								<a href="./pap/freqfrenet.pdf" target=_blank>
+								 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF
+								</a>
+								</p>
+
+								<li> <b>G. Tzounas</b>, R. Sipahi, F. Milano, Damping power system electromechanical
+										 oscillations using time delays, IEEE Transactions on Circuits and Systems I: Regular
+										 Papers, vol. 68, no. 6, pp. 2725-2735, Jun. 2021.
+										 <!--<p></p> -->
+								</li>
+								<p align="right">
+								<!--
+								 <a style="margin-right:1.5cm" href="./pap/delaydamp.txt" target=_blank>
+									<i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+								 </a>
+								 -->
+								 <a style="margin-right:1.5cm" href="https://doi.org/10.1109/TCSI.2021.3062970" target=_blank>
+									<i class="fa fa-external-link" aria-hidden="true"></i> DOI
+								 </a>
+								<a href="./pap/delaydamp.pdf" target=_blank>
+								 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF
+								</a>
+								</p>
+
+								<li> <b>G. Tzounas</b>, F. Milano, Delay-based decoupling of power
+												system models for transient stability analysis, IEEE Transactions
+												on Power Systems, vol. 36, no. 1, pp. 464-473, Jan. 2021.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/onestepdelay.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1109/TPWRS.2020.3009172" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/onestepdelay.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li> I. Dassios, <b>G. Tzounas</b>, F. Milano, Robust stability criterion for perturbed
+										singular systems of linearized differential equations, Journal of Computational and Applied
+										Mathematics, Elsevier, vol. 381, no. 113032, Jan. 2021.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/robust.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1016/j.cam.2020.113032" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/robust.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li> <b>G. Tzounas</b>, I. Dassios, M. A. A. Murad, F. Milano, Theory and implementation
+										of fractional order controllers for power system applications, IEEE Transactions
+										on Power Systems, vol. 35, no. 6, pp. 4622-4631, Nov. 2020.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/fractional.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1109/TPWRS.2020.2999415" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/fractional.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li> I. Dassios, <b>G. Tzounas</b>, F. Milano, Generalized fractional controller
+										for singular systems of differential equations, Journal of Computational and
+										Applied Mathematics, Elsevier, vol. 378, 112919, Nov. 2020.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/gfoc.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://www.sciencedirect.com/science/article/pii/S0377042720302107" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/gfoc.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li> <b>G. Tzounas</b>, F. Milano, I. Dassios, M. Liu, F. Milano, Comparison of
+									numerical methods and open-source libraries for eigenvalue analysis of large-scale
+									power systems, Applied Sciences, MDPI, <i>Special Issue: Methods in Dynamical
+									Systems, Mathematics of Networks, and Optimization for Modelling in Engineering</i>,
+									vol. 10, no. 21, 7592, Oct. 2020.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/eigmethods.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.3390/app10217592" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/eigmethods.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li> M. Liu, I. Dassios, <b>G. Tzounas</b>, F. Milano, Model-independent derivative control
+										delay compensation methods for power systems, Energies, MDPI,
+									<i>Special Issue: Advanced Solutions for Monitoring, Protection and Control of Modern Power
+										Transmission System</i>, vol. 13, no. 2, Jan. 2020.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/delay_compensation2.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.3390/en13020342" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/delay_compensation2.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li> <b>G. Tzounas</b>, I. Dassios, F. Milano, Modal participation factors of
+										algebraic variables, IEEE Transactions on Power Systems, vol. 35, no. 1, pp. 742-750, Jan. 2020.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/pfactors.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1109/TPWRS.2019.2931965" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/pfactors.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li> I. Dassios, <b>G. Tzounas</b>, F. Milano, Participation factors for singular systems of
+										differential equations, Circuits, Systems, and Signal Processing, Springer, vol. 39, no. 1,
+										pp. 83-110, Jan. 2020.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/pfactors_singular.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1007/s00034-019-01183-1" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/pfactors_singular.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li> I. Dassios, <b>G. Tzounas</b>, F. Milano, The Möbius transform effect in singular systems of
+										differential equations, Applied Mathematics and Computation, Elsevier, vol. 361, pp. 338-353,
+										Nov. 2019.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/moebius.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1016/j.amc.2019.05.047" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/moebius.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li>
+								 M. Liu, I. Dassios, <b>G. Tzounas</b>, F. Milano, Stability analysis of power systems
+								 with inclusion of realistic-modeling of WAMS delays, IEEE Transactions on Power Systems,
+								 vol. 34, no. 1, pp. 627-636, Jan. 2019.
+									<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/wamsdelay.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1109/TPWRS.2018.2865559" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/wamsdelay.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+								 </p>
+								</li>
+								<p></p>
+
+							 </ol>
+							</section>
+
+							<section id="Conference" onmouseover="conferenceHover()" onmouseout="conferenceNormal()">
+								<h2>Peer-Reviewed Conference Papers</h2>
+								<ol reversed align="justify">
+								
+								
+									<li> 
+										<b>G. Tzounas</b>, F. Milano, 
+										On the emulation of synchronous machine dynamics by converter-interfaced generators, 
+										IEEE PES General Meeting, Orlando, FL, 16-20 Jul. 2023. 
+										<p align="right">
+												<!--
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1109/ISGTAsia54193.2022.10003521" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											-->
+											<a href="./pap/smemul.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+										</p>
+									</li>
+									<p></p>
+										
+									<li> 
+										W. Zhong, <b>G. Tzounas</b>, F. Milano, 
+										Voltage stability enhancement through active
+										power control of converter-interfaced generation,
+										IEEE ISGT-Asia, Singapore, 2-5 Nov. 2022.
+										<p align="right">
+												<!--
+												<a style="margin-right:1.5cm" href="./pap/der_freqvoltage.txt" target=_blank>
+												 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+												</a>
+												-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1109/ISGTAsia54193.2022.10003521" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/vpcurve.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+										</p>
+									</li>
+									<p></p>
+
+
+									<li>
+										<b>G. Tzounas</b>, F. Milano, On the numerical stability and accuracy
+										of one-step delay approximations, IEEE PES General Meeting, Denver, CO,
+										17-21 Jul. 2022.
+
+											<p align="right">
+												<a style="margin-right:1.5cm" href="https://doi.org/10.1109/PESGM48719.2022.9916877" target=_blank>
+													 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+												</a>									
+												<a href="./pap/osdastab.pdf" target=_blank>
+														<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+												</a>
+											</p>
+									</li>
+									<p></p>
+
+
+								<li>
+									W. Zhong, <b>G. Tzounas</b>, F. Milano, Real-time estimation of VPP equivalent inertia
+									and fast frequency control, IEEE PES General Meeting, Denver, CO,
+									17-21 Jul. 2022.
+
+										<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/der_freqvoltage.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1109/PESGM48719.2022.9916747" target=_blank>
+											 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/inertiavppffr.pdf" target=_blank>
+												<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+										</a>
+										</p>
+								</li>
+							<p></p>
+
+									<li>
+										<b>G. Tzounas</b>, F. Milano, Improving the frequency response of DERs through
+										voltage feedback, IEEE PES General Meeting, Washington, DC, 25-29 Jul. 2021.
+										The paper was included in the session <i>Best Papers on Bulk Power Generation
+										and Transmission</i>.
+											<p align="right">
+												<!--
+												<a style="margin-right:1.5cm" href="./pap/der_freqvoltage.txt" target=_blank>
+												 <i class="fa fa-quote-left" aria-hidden="true"></i>BibTex
+												</a>
+												-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1109/PESGM46819.2021.9638236" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i>DOI
+											</a>
+											<a href="./pap/der_freqvoltage.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>PDF <!-- - preprint -->
+											</a>
+											</p>
+								</li>
+								<p></p>
+
+								<li>
+									T. Kërçi, <b>G. Tzounas</b>, I. Dassios, M. A. A. Murad, F. Milano,
+									A short-term dynamic electricity market model with memory effect, IEEE PES General
+									Meeting, Washington, DC, 25-29 Jul. 2021.
+									<p align="right">
+										<!--
+										<a style="margin-right:1.5cm" href="./pap/fracmarket.txt" target=_blank>
+										 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+										</a>
+										-->
+										<a style="margin-right:1.5cm" href="https://doi.org/10.1109/PESGM46819.2021.9637934" target=_blank>
+											 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/fracmarket.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+										</a>
+										</p>
+								</li>
+								<p></p>
+
+									<li>
+										M. A. A. Murad, <b>G. Tzounas</b>, F. Milano, Modeling and simulation of
+										fractional order PI control limiters for power systems, 21st IFAC World
+										Congress (IFAC 2020), Berlin, Germany, 12-17 Jul. 2020.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/fopilimit.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1016/j.ifacol.2020.12.2273" target=_blank>
+											 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/fopilimit.pdf" target=_blank>
+											 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+									</li>
+									<p></p>
+
+									<li>
+										<b>G. Tzounas</b>, F. Milano, Impact of the estimation of synchronous
+										machine rotor speeds on wide area damping controllers, IEEE PES General
+										Meeting, Atlanta, GA, 4-8 Aug. 2019.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/freqpss2.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="https://doi.org/10.1109/PESGM40551.2019.8973611" target=_blank>
+											 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/freqpss2.pdf" target=_blank>
+											 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+									</li>
+									<p></p>
+
+									<li>
+										M. A. A. Murad, <b>G. Tzounas</b>, F. Milano, Frequency control through voltage
+										regulation of power system using SVC devices, IEEE PES General Meeting, Atlanta,
+										GA, 4-8 Aug. 2019.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/freqsvc.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="http://dx.doi.org/10.1109/PESGM40551.2019.8973807" target=_blank>
+											 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/freqsvc.pdf" target=_blank>
+											 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+									</li>
+									<p></p>
+
+									<li>
+										<b>G. Tzounas</b>, M. Liu, M. A. A. Murad, F. Milano, Impact of realistic
+										bus frequency measurements on wide-area power system stabilizers, IEEE PowerTech, Milano,
+										Italy, 23-27 Jun. 2019.
+											<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/freqpss1.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="http://dx.doi.org/10.1109/PTC.2019.8810695" target=_blank>
+											 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/freqpss1.pdf" target=_blank>
+											 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+									</li>
+									<p></p>
+
+									<li>
+										M. Liu, <b>G. Tzounas</b>, F. Milano, A model-independent delay compensation method for
+										power systems, IEEE PowerTech, Milano, Italy, 23-27 Jun. 2019.
+										<p align="right">
+										<!--
+										<a style="margin-right:1.5cm" href="./pap/delay_compensation1.txt" target=_blank>
+										 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+										</a>
+										-->
+										<a style="margin-right:1.5cm" href="http://dx.doi.org/10.1109/PTC.2019.8810975" target=_blank>
+										 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/delay_compensation1.pdf" target=_blank>
+										 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+										</a>
+										</p>
+									</li>
+									<p></p>
+
+									<li>
+										<b align="right">G. Tzounas</b>, M. Liu, M. A. A. Murad, F. Milano, Stability analysis of wide area
+										damping controllers with multiple time delays, 10th Symposium on Control of Power and
+										Energy Systems (IFAC CPES), Tokyo, Japan, 4-6 Sep. 2018.
+												<p align="right">
+											<!--
+											<a style="margin-right:1.5cm" href="./pap/delayifac.txt" target=_blank>
+											 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+											</a>
+											-->
+											<a style="margin-right:1.5cm" href="http://dx.doi.org/10.1016/j.ifacol.2018.11.753" target=_blank>
+												 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+											</a>
+											<a href="./pap/delayifac.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+											</a>
+											</p>
+									</li>
+									<p></p>
+
+									<li>
+										T. Souxes, <b>G. Tzounas</b>, C. Vournas, Effect of wind variability in the
+										emergency reactive support provided by wind farms, IEEE PowerTech, Manchester,
+										UK, 18-22 Jun. 2017.
+										<p align="right">
+										<!--
+										<a style="margin-right:1.5cm" href="./pap/wf_emrs.txt" target=_blank>
+										 <i class="fa fa-quote-left" aria-hidden="true"></i>  BibTex
+										</a>
+										-->
+										<a style="margin-right:1.5cm" href="http://dx.doi.org/10.1109/PTC.2017.7980845" target=_blank>
+										 <i class="fa fa-external-link" aria-hidden="true"></i> DOI
+										</a>
+										<a href="./pap/wf_emrs.pdf" target=_blank>
+										 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>  PDF <!-- - preprint -->
+										</a>
+										</p>
+									</li>
+									<p></p>
+								</ol>
+							</section>
+
+							<section id="Technical Reports" onmouseover="thesesHover()" onmouseout="thesesNormal()">
+								<h2>Technical Reports</h2>
+								<ol reversed align="justify">
+									<li>  
+										<b>G. Tzounas</b>, F. Milano, EU H2020 Project edgeFLEX - Deliverable 2.3: Frequency control concept
+											for Energy Communities with future VPPs, Mar. 2022.
+											<p align="right">
+												<a href="./pap/edgeFLEX_D2_3.pdf" target=_blank>
+														<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+												</a>
+											</p> 
+									</li>
+									<p></p>
+								
+									<li>
+										<b>G. Tzounas</b>, J. Chen, T. Kërçi, W. Zhong, F. Milano,
+										EU H2020 Project edgeFLEX - Deliverable 2.2:  Frequency control concepts for 
+										current VPPs in large scale deployment, Mar. 2021.
+											<p align="right">
+												<a href="./pap/edgeFLEX_D2_2.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+												</a>
+											</p>
+									</li>
+									<p></p>
+
+									<li> <b>G. Tzounas</b>, F. Milano, J. Chen, T. Kërçi, W. Zhong,
+										D. Nouti, G. Lipari, EU H2020 Project edgeFLEX - Deliverable 2.1:
+										Scenario description for frequency and inertial response control
+										for VPPs, Mar. 2021.
+											<p align="right">
+											<a href="./pap/edgeFLEX_D2_1.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+											</a>
+											</p>
+									</li>
+									<p></p>
+							</section>
+
+							<section id="Theses" onmouseover="thesesHover()" onmouseout="thesesNormal()">
+								<h2>Theses</h2>
+								<ol reversed align="justify">
+									<li> <b>G. Tzounas</b>, <i> Small-Signal Stability Techniques for Power System Modal
+										Analysis, Control, and Numerical Integration</i>, PhD Thesis, Supervisor: Prof. Federico
+										Milano, University College Dublin, Ireland, Oct. 2020.
+											<p align="right">
+											<a href="./pap/gtzounas_phdthesis.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+											</a>
+											</p>
+									</li>
+									<p></p>
+
+									<li> <b>G. Tzounas</b>, <i> Impact of Wind Generation on the Maximum Power Transfer of an
+										Electric Power Transmission System</i>, Diploma Thesis (in Greek), Supervisor:
+										Prof. Costas Vournas, National Technical University of Athens, Greece, Dec. 2016.
+											<p align="right">
+											<a href="./pap/gtzounas_diplomathesis.pdf" target=_blank>
+													<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+											</a>
+											</p>
+									</li>
+									<p></p>
+								</ol>
+							</section>
+
+<!--
+						<section id="Arising" onmouseover="arisingHover()" onmouseout="arisingNormal()">
+						<h2>Arising</h2>
+						<ol reversed align="justify">
+
+							<li> T. Kërçi, <b>G. Tzounas</b>, F. Milano, A dynamic behavioral model of the long-term development of
+								solar photovoltaic generation driven by feed-in tariffs, submitted to Applied Energy, Elsevier, under review.
+								<!--
+									<p align="right">
+									<a href="./pap/gtzounas_phdthesis.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+									</a>
+									</p>
+							</li>
+							<p></p>
+
+							<li>  <b>G. Tzounas</b>, F. Milano, EU H2020 Project edgeFLEX -- Deliverable~2.3: Frequency control concept
+								for Energy Communities with future VPPs, 	submitted to the European Commission, under review.
+								<!--
+									<p align="right">
+									<a href="./pap/edgeFLEX_D2_3.pdf" target=_blank>
+											<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+									</a>
+									</p>
+							</li>
+							<p></p> -->
+				</article>
+			</div>
+
+			<!-- Copyright -->
+			<div id="copyright">
+				<ul>
+					<li>&copy; gtzounas</li>
+					<li><a href="https://html5up.net">HTML5 UP</a></li>
+						<li><a href="https://orcid.org/0000-0002-1464-3600" class="icon brands fa-orcid"><span class="label">ORCID</span></a>
+							  <a href="https://scholar.google.com/citations?user=VjLu0esAAAAJ" class="icon solid fa-graduation-cap"><span class="label">GoogleScholar</span></a>
+								<a href="https://www.researchgate.net/profile/Georgios-Tzounas" class="icon brands fa-researchgate"><span class="label">ResearchGate</span></a>
+								<a href="https://www.linkedin.com/in/georgiostzounas/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a>
+						</li>
+				</ul>
+			</div>
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>

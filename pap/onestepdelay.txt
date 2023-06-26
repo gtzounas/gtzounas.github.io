@@ -1,0 +1,11 @@
+BIBTEX:
+
+@ARTICLE{tzounas:onestepdelay:2021,
+  author={Tzounas, Georgios and Milano, Federico},
+  journal={IEEE Transactions on Power Systems},
+  title={Delay-Based Decoupling of Power System Models for Transient Stability Analysis},
+  year={2021},
+  volume={36},
+  number={1},
+  pages={464-473},
+  doi={10.1109/TPWRS.2020.3009172}}

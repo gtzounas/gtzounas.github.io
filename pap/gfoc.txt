@@ -1,0 +1,10 @@
+BIBTEX:
+
+@ARTICLE{dassios:gfoc:2020,
+author = {Ioannis Dassios and Georgios Tzounas and Federico Milano},
+title = {Generalized fractional controller for singular systems of differential equations},
+journal = {Journal of Computational and Applied Mathematics},
+volume = {378},
+pages = {112919},
+year = {2020},
+doi ={10.1016/j.cam.2020.112919},}

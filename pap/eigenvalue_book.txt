@@ -1,0 +1,8 @@
+BIBTEX:
+
+@book{milano:eigenvalue:2020,
+title={Eigenvalue Problems in
+Power Systems},
+publisher={CRC Press, Taylor \& Francis Group},
+author={Federico Milano and Ioannis Dassios and Muyang Liu and Georgios Tzounas},
+year={2020},}
