@@ -1,7 +1,0 @@
-BIBTEX:
-
-@INPROCEEDINGS{liu:delcomp_ptc:2019,
-  author={M. {Liu} and G. {Tzounas} and F. {Milano}},
-  booktitle={Proceedings of the IEEE PowerTech Conference},
-  title={A Model-Independent Delay Compensation Method for Power Systems},
-  year={2019},}
