@@ -18,7 +18,7 @@ Promise.all(tasks).then(() => {
     if (a) a.parentElement.classList.add('active');
   }
 
-  // ✅ rebuild mobile menu after nav is loaded
+  // rebuild mobile menu after nav is loaded
   if (window.jQuery) {
     (function($){ $(window).trigger('load'); })(jQuery);
   }
