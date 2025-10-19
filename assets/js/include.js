@@ -17,6 +17,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const a = nav.querySelector(`a[href="${path}"]`);
       if (a) a.parentElement.classList.add('active');
     }
-    window.dispatchEvent(new Event('load'));
+    if (window.jQuery) {
+  // re-trigger the load event after partials are injected
+  (function($){ $(window).trigger('load'); })(jQuery);
+}
   });
 });
