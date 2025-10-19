@@ -19,3 +19,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 });
+
+window.addEventListener('load', () => {
+  if (window.jQuery && /Mobi|Android/i.test(navigator.userAgent))
+    (function($){ $(window).trigger('load'); })(jQuery);
+});
