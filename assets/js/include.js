@@ -9,17 +9,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-Promise.all(tasks).then(() => {
-  const path = (location.pathname.split('/').pop() || 'index.html').toLowerCase();
-  const nav = document.querySelector('#nav');
-  if (nav) {
-    nav.querySelectorAll('ul.links li').forEach(li => li.classList.remove('active'));
-    const a = nav.querySelector(`a[href="${path}"]`);
-    if (a) a.parentElement.classList.add('active');
-  }
-
-  // rebuild mobile menu after nav is loaded
-  if (window.jQuery) {
-    (function($){ $(window).trigger('load'); })(jQuery);
-  }
+  Promise.all(tasks).then(() => {
+    const path = (location.pathname.split('/').pop() || 'index.html').toLowerCase();
+    const nav = document.querySelector('#nav');
+    if (nav) {
+      nav.querySelectorAll('ul.links li').forEach(li => li.classList.remove('active'));
+      const a = nav.querySelector(`a[href="${path}"]`);
+      if (a) a.parentElement.classList.add('active');
+    }
+  });
 });
