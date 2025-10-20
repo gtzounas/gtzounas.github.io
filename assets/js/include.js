@@ -17,6 +17,16 @@ document.addEventListener('DOMContentLoaded', () => {
       const a = nav.querySelector(`a[href="${path}"]`);
       if (a) a.parentElement.classList.add('active');
     }
+
+    // copy nav into the mobile menu panel
+    if (window.jQuery) {
+      const $ = window.jQuery;
+      const $nav = $('#nav');
+      const $navPanelInner = $('#navPanel > nav');
+      if ($nav.length && $navPanelInner.length) {
+        $navPanelInner.html($nav.html());
+      }
+    }
   });
 });
 
